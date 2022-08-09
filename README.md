@@ -1,2 +1,2 @@
-# Tugas1-Basis-Data-
+Belajar Table 1
 Tabel
